@@ -61,7 +61,7 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/wassimibntahar/comparamosXti">
+    <a href="[https://github.com/wassimibntahar/comparamosXti](https://github-readme-stats.vercel.app/api/pin/?username=wassimibntahar&repo=comparamosXti&cache_seconds=1)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassimibntahar&repo=comparamosXti" alt="GitHub Stats" />
     </a>
   
