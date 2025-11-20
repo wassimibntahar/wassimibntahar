@@ -61,9 +61,9 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="[https://github.com/wassimibntahar/comparamosXti](https://github-readme-stats.vercel.app/api/pin/?username=wassimibntahar&repo=comparamosXti&cache_seconds=0)">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=wassimibntahar&repo=comparamosXti&cache_seconds=0" />
+    <a href="https://github.com/wassimibntahar/comparamosXti">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassimibntahar&repo=comparamosXti&cache_seconds=0" />
     </a>
-  
   </p>
 </div>
+
